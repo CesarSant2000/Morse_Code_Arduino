@@ -1,4 +1,4 @@
-<a href="https://github.com/cesarsant0203"><img src="https://avatars1.githubusercontent.com/u/55715914?s=460&v=4" title="CesarSant0203" alt="CesarSant0203"></a>
+<a href="https://github.com/cesarsant0203"><img width="200px" height="200px" src="https://avatars1.githubusercontent.com/u/55715914?s=460&v=4" title="CesarSant0203" alt="CesarSant0203"></a>
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
